@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @di-lenn
-- 👀 I’m interested in coffee
+- 👀 I’m interested in ☕️
 - 🌱 I’m currently learning machine learning & artificial intelligence
 - 📫 How to reach me - twitter @di_lenn
 
