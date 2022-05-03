@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @di-lenn
 - 👀 I’m interested in ☕️
-- 🌱 Computer Science & IT - Class of 2022
+- 🌱 BSc Computer Science & IT - Class of 2022
 - 📫 How to reach me - twitter @dylanlee01
 
 <!---
